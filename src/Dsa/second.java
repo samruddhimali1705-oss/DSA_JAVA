@@ -1,0 +1,10 @@
+package Dsa;
+
+public class second {
+
+	public static void main(String[] args) {
+		System.out.println("Hello Sam here");
+
+	}
+
+}
