@@ -1,0 +1,53 @@
+[2026-06-25T12:00:36.578Z] [DebugLogger] Debug logging enabled
+  {
+    "logFile": "c:\\Users\\DELL\\eclipse-workspace\\DSA_JAVA\\debug_log.txt",
+    "backupFile": "c:\\Users\\DELL\\eclipse-workspace\\DSA_JAVA\\debug_log.bak"
+  }
+
+[2026-06-25T12:00:36.579Z] [Extension] Extension activating...
+  {
+    "workspacePath": "c:\\Users\\DELL\\eclipse-workspace\\DSA_JAVA",
+    "debugMaxLines": 500
+  }
+
+[2026-06-25T12:00:36.584Z] [SecretService] Initialized successfully
+
+[2026-06-25T12:00:36.587Z] [npmFinder] Starting to find npm executable...
+
+[2026-06-25T12:00:49.767Z] [npmFinder] Success: Found npm in PATH, version: 11.16.0
+
+[2026-06-25T12:00:49.767Z] [npmFinder] Executing command: npm config get prefix
+
+[2026-06-25T12:00:56.589Z] [npmFinder] Successfully got npm prefix: C:\Users\DELL\AppData\Roaming\npm
+
+[2026-06-25T12:00:56.592Z] [PluginManager] Loading plugins from file
+
+[2026-06-25T12:00:56.592Z] [PluginManager:WARN] Plugin config file not found: C:\Users\DELL\.claude\plugins\installed_plugins.json
+
+[2026-06-25T12:00:56.593Z] [HooksConfigManager] Workspace path set to: c:\Users\DELL\eclipse-workspace\DSA_JAVA
+
+[2026-06-25T12:00:56.594Z] [npmFinder] Starting to find npm executable...
+
+[2026-06-25T12:00:56.601Z] [BackupManager] Workspace storage path: c:\Users\DELL\AppData\Roaming\Code\User\workspaceStorage\6f893b21dd013a0e07d59b2baafce625\lkbaba.claude-code-chatui
+
+[2026-06-25T12:00:56.601Z] [BackupManager] Backup repo path: c:\Users\DELL\AppData\Roaming\Code\User\workspaceStorage\6f893b21dd013a0e07d59b2baafce625\lkbaba.claude-code-chatui\backups\.git
+
+[2026-06-25T12:00:56.606Z] [BackupManager] Creating new backup repository...
+
+[2026-06-25T12:00:56.653Z] [BackupManager] Created backups directory: c:\Users\DELL\AppData\Roaming\Code\User\workspaceStorage\6f893b21dd013a0e07d59b2baafce625\lkbaba.claude-code-chatui\backups
+
+[2026-06-25T12:00:56.660Z] [BackupManager] Created .git directory: c:\Users\DELL\AppData\Roaming\Code\User\workspaceStorage\6f893b21dd013a0e07d59b2baafce625\lkbaba.claude-code-chatui\backups\.git
+
+[2026-06-25T12:00:56.660Z] [BackupManager] Workspace path: c:\Users\DELL\eclipse-workspace\DSA_JAVA
+
+[2026-06-25T12:00:56.660Z] [BackupManager] Running init command: git --git-dir="c:\Users\DELL\AppData\Roaming\Code\User\workspaceStorage\6f893b21dd013a0e07d59b2baafce625\lkbaba.claude-code-chatui\backups\.git" --work-tree="c:\Users\DELL\eclipse-workspace\DSA_JAVA" init
+
+[2026-06-25T12:00:57.829Z] [BackupManager] Initialized backup repository at: c:\Users\DELL\AppData\Roaming\Code\User\workspaceStorage\6f893b21dd013a0e07d59b2baafce625\lkbaba.claude-code-chatui\backups\.git
+
+[2026-06-25T12:00:58.950Z] [npmFinder] Success: Found npm in PATH, version: 11.16.0
+
+[2026-06-25T12:00:58.950Z] [npmFinder] Executing command: npm config get prefix
+
+[2026-06-25T12:01:00.780Z] [npmFinder] Successfully got npm prefix: C:\Users\DELL\AppData\Roaming\npm
+
+[2026-06-25T12:01:00.780Z] [utils] npm prefix found at: C:\Users\DELL\AppData\Roaming\npm
